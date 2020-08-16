@@ -1109,6 +1109,7 @@ header {
   z-index: 10;
   will-change: transform;
   margin-bottom: 7px;
+  background-color: #50bf9e;
 }
 
 #scroll-indicator {
